@@ -9,9 +9,16 @@ import { connect } from 'react-redux'
 export class EmployeeSpotlight extends Component {
 <<<<<<< HEAD
      const emp = [];
+     console.log("feature is coming soon");
+<<<<<<< HEAD
+=======
      const emp2 = [];
+>>>>>>> 918118cef98945ac368b80e7355ff5edd2319460
 =======
 >>>>>>> main
+const newfeature(){
+  console.log("new feature");
+}
   static propTypes = {
     second: third
   }
