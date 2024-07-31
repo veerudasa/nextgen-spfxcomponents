@@ -7,12 +7,19 @@ import React, { Component } from 'react'
 import { connect } from 'react-redux'
 
 export class EmployeeSpotlight extends Component {
+<<<<<<< HEAD
      const emp = [];
+=======
+>>>>>>> main
   static propTypes = {
     second: third
   }
 
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> main
   render() {
     return (
       <div>EmployeeSpotlight</div>
