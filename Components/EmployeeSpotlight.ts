@@ -9,6 +9,7 @@ import { connect } from 'react-redux'
 export class EmployeeSpotlight extends Component {
 <<<<<<< HEAD
      const emp = [];
+     console.log("feature is coming soon");
 <<<<<<< HEAD
 =======
      const emp2 = [];
